@@ -1,6 +1,6 @@
 # Levine-online-GEOG676-fall2025
-#new repository created on a PC personal computer with access to ArcGIS Pro (original repository work was done on a Mac computer with no ArcGIS)
-#GIS_programming
+#new repository created on a PC personal computer with access to ArcGIS Pro (original repository work (labs 1-3) was done on a Mac computer with no ArcGIS), this repository contains labs 4-7
+
 
 |Labs    |
 |:-----:|
