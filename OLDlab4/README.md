@@ -1,0 +1,3 @@
+Ansley Levine
+
+#the goal of this lab is to learn how to use arcpy in Visual Studio Code. Tasks include creating a geodatabase and learning how to manipulate spatial analysis tools in arcpy including buffering and intersection. The prompt is to create a Python script to determine which buildings on Texas A&M campus intersect with the garages. The final product is to produce a .csv table with the results.
