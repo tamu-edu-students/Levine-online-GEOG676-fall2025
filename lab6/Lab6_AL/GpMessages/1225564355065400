@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Wednesday, October 1, 2025 3:04:42 PM</msg><msg code="0" type="0">Validating Project File...</msg><msg code="0" type="0">Finding your map layer...</msg><msg code="0" type="0">Calculating and classifying...</msg><msg code="0" type="0">Finish Generating Layer...</msg><msg code="0" type="0">Saving...</msg><msg code="1" type="100">﻿Traceback (most recent call last):
+﻿  File "&lt;string&gt;", line 148, in execute
+﻿TypeError: can't multiply sequence by non-int of type 'str'
+</msg><msg code="-2147467259" type="100">Failed to execute (GraduatedColorsRenderer).</msg><msg code="0" type="3">Failed at Wednesday, October 1, 2025 3:04:55 PM (Elapsed Time: 12.65 seconds)</msg></messages>

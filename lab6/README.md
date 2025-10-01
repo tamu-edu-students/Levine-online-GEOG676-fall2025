@@ -1,0 +1,1 @@
+# in lab 6, we create a toolbox that will generate a map using renderers to draw feature data on a map. We will also add in a progressor to track the progress of the script execution when generating the map.
