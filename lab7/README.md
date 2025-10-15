@@ -1,0 +1,1 @@
+lab7 tasks include downloading satellite imagery and using the imagery to create a composite raster image. In addition, a digital elevation model is used to create a hillshade raster image and a slope analysis raster image. Data aquired from Landsat and Shace-Shuttle Radar Topography Mission (DEM) from the USGS earthexplorer webpage.
